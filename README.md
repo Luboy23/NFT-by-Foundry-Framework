@@ -7,7 +7,6 @@
 ### 这个项目是跟着油管上的 @Pactrick Collins 的 Foundry 项目制作的，我完成了教程中没有完成测试部分代码，我（@lllu_23）也在B站上传了这门 Foundry 课程完整的中文字幕版本，链接如下：https://www.bilibili.com/video/BV13a4y1F7V3/
 
 <br>
-<br>
 
 # Getting Started
 
