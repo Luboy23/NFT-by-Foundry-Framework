@@ -193,3 +193,4 @@ forge fmt
 
 # Thank you! :) 🏴‍☠️ 🛠
 # NFT-by-Foundry-Framework
+# NFT-by-Foundry-Framework
